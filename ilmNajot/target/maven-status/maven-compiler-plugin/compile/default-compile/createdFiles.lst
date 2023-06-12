@@ -1,0 +1,12 @@
+com\example\ilmnajot\entity\api\ApiResponse.class
+com\example\ilmnajot\entity\payload\RegisterDTO.class
+com\example\ilmnajot\service\AuthService.class
+com\example\ilmnajot\ilmNajotApplication.class
+com\example\ilmnajot\entity\User.class
+com\example\ilmnajot\security\JwtProvider.class
+com\example\ilmnajot\entity\abstracts\AbsEntity.class
+com\example\ilmnajot\entity\enums\RoleName.class
+com\example\ilmnajot\controller\UserController.class
+com\example\ilmnajot\security\JwtFilter.class
+com\example\ilmnajot\repository\UserRepository.class
+com\example\ilmnajot\security\config\SecurityConfiguration.class
